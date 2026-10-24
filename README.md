@@ -1,44 +1,37 @@
-# Olá, eu sou o Pedro Martins! 👋
+# Pedro Martins | Desenvolvedor em Evolução
 
-### Estudante de Sistemas de Informação na PUC Minas | Em busca de Estágio em TI
-
-Sou apaixonado por tecnologia, desenvolvimento de software e pela resolução de problemas reais através do código. Atualmente estou no 4º período da faculdade e focado em construir uma base sólida tanto em desenvolvimento Front-end quanto em lógica e estruturas de Back-end.
+Estudante de **Sistemas de Informação no 4º período na PUC Minas**. Estou ativamente focado em consolidar meus conhecimentos em lógica de programação, arquitetura de software e bancos de dados, buscando minha primeira oportunidade de estágio em TI.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🖥️ Perfil Técnico
 
-Aqui estão as tecnologias que utilizo no meu dia a dia de estudos e projetos acadêmicos:
-
-**Back-end & Banco de Dados:**
-- ![C#](https://shields.io)
-- ![Java](https://shields.io)
-- ![SQL](https://shields.io)
-
-**Front-end & UI/UX:**
-- ![HTML5](https://shields.io)
-- ![CSS3](https://shields.io)
-- ![JavaScript](https://shields.io)
-- ![Bootstrap](https://shields.io)
-
-**Ferramentas & Conceitos:**
-- ![Git](https://shields.io)
-- ![GitHub](https://shields.io)
-- `Engenharia de Requisitos` `Modelagem de Processos (BPMN)` `Design Thinking`
+```javascript
+const estagiarioTI = {
+  localidade: "Betim, MG",
+  formacao: "Sistemas de Informação - PUC Minas",
+  backEnd: ["C# (.NET)", "Java"],
+  bancoDeDados: ["SQL"],
+  frontEnd: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+  metodologias: ["Engenharia de Requisitos", "BPMN", "Design Thinking"]
+};
+```
 
 ---
 
-### 🚀 Destaques Acadêmicos
+### 🚀 Projetos em Destaque & Conquistas
 
-- **Projeto Desloca Aê:** 🥈 Conquistei o 2º lugar geral com uma aplicação web focada em mobilidade urbana no Trabalho Interdisciplinar da PUC Minas.
-- **Cookverse Receitas:** Criação de um portal responsivo focado totalmente na experiência do usuário (UI/UX).
-- **SECOMP 2026:** Atuei como monitor voluntário no suporte e na cobertura fotográfica oficial do evento.
-
----
-
-### 📫 Como me encontrar:
-
-- **LinkedIn:** [://linkedin.com](https://linkedin.com) *(Substitua pelo link do seu perfil)*
-- **E-mail:** seu.email@provedor.com *(Substitua pelo seu e-mail)*
+*   **Projeto "Desloca Aê" (Trabalho Interdisciplinar):** Conquistei o 2º lugar geral na faculdade com uma aplicação web focada em mobilidade urbana e desenho de processos.
+*   **Cookverse Receitas:** Site desenvolvido de forma individual com foco em experiência do usuário (UI/UX), interfaces responsivas e usabilidade.
+*   **SECOMP 2026:** Monitor voluntário na Semana da Computação da PUC Minas, atuando no suporte logístico e na cobertura fotográfica do evento.
 
 ---
+
+### 📫 Contato e Redes Sociais
+
+```json
+{
+  "linkedin": "www.linkedin.com/in/pedro-martins-943347388",
+  "email": "pedrinh.assuncao@gmail.com"
+}
+```
